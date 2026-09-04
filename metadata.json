@@ -1,0 +1,6 @@
+{
+  "name": "SevaSetu - Rural Healthcare & Smart Referral",
+  "description": "Connecting citizens to the right rural healthcare services, automated smart referrals, equipment gap triage, and village health camps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
